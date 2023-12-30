@@ -1,0 +1,33 @@
+.hobbies {
+  display: flex;
+}
+
+.heading {
+  text-align: left;
+  background-color: black;
+  flex-shrink: 0;
+}
+
+.heading h1 {
+  text-align: center;
+  color: white;
+  font-size: 3rem;
+  padding: 0% 3rem;
+  margin: 0%;
+}
+
+.hobbieContainer {
+  background-color: blue;
+  display: flex;
+  flex-grow: 1;
+  padding-left: 10%;
+}
+
+.hobbie {
+  font-size: 2rem;
+  border: 1rem solid white;
+  margin: auto 3%;
+  padding: 3rem 5rem;
+  border-radius: 20px;
+  background-color: aqua;
+}

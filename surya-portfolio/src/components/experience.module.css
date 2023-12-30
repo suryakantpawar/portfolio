@@ -1,0 +1,14 @@
+.expHeading {
+  font-size: 4rem;
+  margin: 2%;
+  text-align: center;
+}
+
+.companyLogoDiv {
+  text-align: center;
+}
+
+.companyLogo {
+  margin: 3% 4%;
+  height: 4rem;
+}

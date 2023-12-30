@@ -1,0 +1,74 @@
+.skillsDiv {
+  position: relative;
+}
+
+.bgimage {
+  height: 40rem;
+  width: 100%;
+}
+
+.skillTitle {
+  color: white;
+  font-size: 4rem;
+  position: absolute;
+  right: 22%;
+  bottom: 5%;
+}
+
+.skill {
+  color: white;
+  text-align: center;
+  border: 5px white solid;
+  border-radius: 1rem;
+  width: auto;
+  padding: 0.2rem 0.3rem;
+  position: absolute;
+  font-size: 1.5rem;
+}
+
+.skill:hover {
+  font-size: 3rem;
+  z-index: 1;
+  background-color: rgb(2, 152, 157);
+}
+
+.skill0 {
+  top: 13%;
+  left: 14%;
+}
+.skill1 {
+  top: 23%;
+  left: 10%;
+}
+.skill2 {
+  top: 13%;
+  left: 22.5%;
+}
+.skill3 {
+  top: 23%;
+  left: 21.5%;
+}
+.skill4 {
+  top: 33%;
+  left: 8%;
+}
+.skill5 {
+  top: 33%;
+  left: 17%;
+}
+.skill6 {
+  top: 33%;
+  left: 21.5%;
+}
+.skill7 {
+  top: 33%;
+  left: 28%;
+}
+.skill8 {
+  top: 43%;
+  left: 13%;
+}
+.skill9 {
+  top: 43%;
+  left: 17%;
+}
