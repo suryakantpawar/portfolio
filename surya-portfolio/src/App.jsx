@@ -1,3 +1,4 @@
+import Contact from "./components/Contact";
 import Experience from "./components/Experience";
 import Hobbies from "./components/Hobbies";
 import Profile from "./components/Profile";
@@ -10,6 +11,7 @@ function App() {
       <Experience />
       <Skills />
       <Hobbies />
+      <Contact />
     </div>
   );
 }

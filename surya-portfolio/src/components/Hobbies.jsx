@@ -22,9 +22,6 @@ function Hobbies() {
         <div className={`${classes.hobbie} ${classes.hobbie3}`}>
           <h1>D</h1>
         </div>
-        <div className={`${classes.hobbie} ${classes.hobbie4}`}>
-          <h1>C</h1>
-        </div>
       </div>
     </div>
   );
