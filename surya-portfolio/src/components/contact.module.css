@@ -10,3 +10,13 @@
   margin-left: 2%;
   padding: 0%;
 }
+
+.social {
+  display: flex;
+}
+
+.social img {
+  margin: 1% 1%;
+  height: 3%;
+  width: 3%;
+}
