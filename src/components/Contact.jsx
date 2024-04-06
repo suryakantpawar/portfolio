@@ -12,23 +12,23 @@ function Contact() {
       </div>
       <div className={classes.social}>
         <img
-          src="https://github.com/suryakantpawar/portfolio/blob/main/surya-portfolio/src/assets/linked.png?raw=true"
+          src="https://github.com/suryakantpawar/portfolio/blob/main/src/assets/linked.png?raw=true"
           alt="linkedin"
         />
         <img
-          src="https://github.com/suryakantpawar/portfolio/blob/main/surya-portfolio/src/assets/tw.png?raw=true"
+          src="https://github.com/suryakantpawar/portfolio/blob/main/src/assets/tw.png?raw=true"
           alt="twitter"
         />
         <img
-          src="https://github.com/suryakantpawar/portfolio/blob/main/surya-portfolio/src/assets/insta.png?raw=true"
+          src="https://github.com/suryakantpawar/portfolio/blob/main/src/assets/insta.png?raw=true"
           alt="instagram"
         />
         <img
-          src="https://github.com/suryakantpawar/portfolio/blob/main/surya-portfolio/src/assets/wh.png?raw=true"
+          src="https://github.com/suryakantpawar/portfolio/blob/main/src/assets/wh.png?raw=true"
           alt="whatsapp"
         />
         <img
-          src="https://github.com/suryakantpawar/portfolio/blob/main/surya-portfolio/src/assets/fb.png?raw=true"
+          src="https://github.com/suryakantpawar/portfolio/blob/main/src/assets/fb.png?raw=true"
           alt="facebook"
         />
       </div>
