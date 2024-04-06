@@ -21,7 +21,7 @@ function Skills() {
     <div className={classes.skillsDiv}>
       <img
         className={classes.bgimage}
-        src="https://github.com/suryakantpawar/portfolio/blob/main/surya-portfolio/src/assets/skills%20bg.jpg?raw=true"
+        src="https://github.com/suryakantpawar/portfolio/blob/main/src/assets/skills%20bg.jpg?raw=true"
         alt="bg"
       />
       <h2 className={classes.skillTitle}>Skills</h2>

@@ -8,12 +8,12 @@ export default function Experience() {
       <div className={classes.companyLogoDiv}>
         <img
           className={classes.companyLogo}
-          src="https://raw.githubusercontent.com/suryakantpawar/portfolio/d69e30fc7c82a010d577eff5b57609c0b420665a/surya-portfolio/src/assets/gp.svg"
+          src="https://raw.githubusercontent.com/suryakantpawar/portfolio/d69e30fc7c82a010d577eff5b57609c0b420665a/src/assets/gp.svg"
           alt="gp"
         />
         <img
           className={classes.companyLogo}
-          src="https://raw.githubusercontent.com/suryakantpawar/portfolio/d69e30fc7c82a010d577eff5b57609c0b420665a/surya-portfolio/src/assets/tsys.svg"
+          src="https://raw.githubusercontent.com/suryakantpawar/portfolio/d69e30fc7c82a010d577eff5b57609c0b420665a/src/assets/tsys.svg"
           alt="tsys"
         />
       </div>
