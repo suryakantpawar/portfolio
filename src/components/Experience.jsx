@@ -4,7 +4,7 @@ import classes from "./experience.module.css";
 export default function Experience() {
   return (
     <div className={classes.experience}>
-      <h2 className={classes.expHeading}>Experince</h2>
+      <h2 className={classes.expHeading}>Experience</h2>
       <div className={classes.companyLogoDiv}>
         <img
           className={classes.companyLogo}
